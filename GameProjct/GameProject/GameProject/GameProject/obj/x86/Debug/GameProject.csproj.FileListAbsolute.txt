@@ -1,0 +1,93 @@
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDamage.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDeath.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerShot.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\Explosion.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyBounce.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyShot.xnb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\C#\Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDamage.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDeath.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerShot.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\Explosion.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyBounce.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyShot.xnb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\C#\Project2\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDamage.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDeath.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerShot.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\Explosion.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyBounce.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyShot.xnb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe.config
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\C#\Project1\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDamage.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDeath.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerShot.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\Explosion.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyBounce.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyShot.xnb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe.config
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Arial20.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\burger.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\explosion.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\frenchfries.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybear.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDamage.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerDeath.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\BurgerShot.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\Explosion.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyBounce.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\Content\Sounds\TeddyShot.xnb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe.config
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.exe
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\bin\x86\Debug\GameProject.pdb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+F:\C#\Final Project\ProjectIncrement1\GameProjct\GameProject\GameProject\GameProject\obj\x86\Debug\GameProject.csprojResolveAssemblyReference.cache
